@@ -10,7 +10,7 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link left-nav-item" href="#summary">Summary</a>
+                <a class="nav-link left-nav-item" href="/thanks">Summary</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link left-nav-item" href="#dungeon-masters">Dungeon Masters</a>
